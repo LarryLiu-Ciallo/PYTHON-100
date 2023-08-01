@@ -37,6 +37,4 @@ for z in Cun3:
 
 Length = len(L1)
 print(L1)
-
-
-
+print(Length)
